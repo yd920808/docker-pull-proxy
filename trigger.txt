@@ -1,1 +1,1 @@
-nginx:1.24.0 registry.cn-hangzhou.aliyuncs.com/base_com/nginx:1.24.0
+nginx:1.24.0 crpi-25ptquadfnhlpx5w.cn-chengdu.personal.cr.aliyuncs.com/base_com/nginx:1.24.0
